@@ -1,5 +1,5 @@
 
-#Hi! I'm Luiz Augusto
+##Hi! I'm Luiz Augusto
 
 Welcome to my portfolio! Here are personal projects in **Python** (automation scripts) and **Java** (object-oriented programming), developed to demonstrate my initial programming skills.
 
