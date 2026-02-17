@@ -1,30 +1,47 @@
-## Hi! I'm Luiz Augusto
+## Olá, eu sou Luiz Augusto! 👋
+Bem-vindo ao meu portfólio! Aqui você encontra projetos pessoais em **Python** (automação) e **Java** (programação orientada a objetos), desenvolvidos para demonstrar minhas habilidades iniciais em programação.
 
-Welcome to my portfolio! Here are personal projects in **Python** (automation scripts) and **Java** (object-oriented programming), developed to demonstrate my initial programming skills.
+🎓 Estudante de **Engenharia de Software**  
+☕ Aprendendo Java com foco em **back-end**  
+📚 Atualmente estudando: **POO, estruturas de dados e Spring Boot**  
+🚀 Buscando oportunidades em: desenvolvimento back-end, integrações, correção de bugs e suporte técnico
 
-I am studying **Software Engineering** at UCSal (starting in 2025) and am looking for opportunities in backend development, integrations, bug fixing, and technical support.
+---
 
-## Featured Projects
+### Tecnologias que estou aprendendo:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### Python - Automation
-- **Inventory Manager**
+---
 
-Simple script to add/remove/list items and alert when stock is low.
+## 📁 Projetos em Destaque
 
-Inspired by practical experience in inventory control. Folder: `/python-automation/stock_manager.py`
+### 🐍 Python — Automação
+- **Gerenciador de Estoque**  
+  Script para adicionar/remover/listar itens e alertar quando o estoque está baixo.  
+  Inspirado em experiência prática com controle de inventário.  
+  📂 Pasta: `/python/stock_manager.py`  
+  🛠️ Tecnologias: Python (dicionários, funções, loops)
 
-Technologies: Python (dictionaries, functions, loops)
+### ☕ Java — Programação Orientada a Objetos
+- **Jogo da Senha**  
+  Projeto desenvolvido na faculdade com lógica de tentativas e validação de senha.  
+  📂 Pasta: `/java/`  
+  🛠️ Tecnologias: Java, lógica de programação
 
-(Add more projects here as you upload others!)
+---
 
-## Demonstrated Skills
-- Programming logic and fundamentals in Python/Java
-- Code organization and comments
-- Use of Git/GitHub for version control
+## 🧠 Habilidades Demonstradas
+- Lógica de programação e fundamentos em Python e Java
+- Organização de código e boas práticas de comentários
+- Controle de versão com Git e GitHub
 
-## Contact
-- Email: luizsacramento135@gmail.com
-- Phone: (71) 99995-3358
-- LinkedIn: https://www.linkedin.com/in/luiz-augusto-elias-souza-sacramento-1a3199339
+---
 
-Thank you for visiting! 🚀
+## 📫 Contato
+- 💼 LinkedIn: [linkedin.com/in/luiz-augusto-elias-souza-sacramento](https://www.linkedin.com/in/luiz-augusto-elias-souza-sacramento-1a3199339)
+- 📧 Email: luizsacramento135@gmail.com
+- 📱 WhatsApp: (71) 99995-3358
+
+Obrigado pela visita! 🚀
