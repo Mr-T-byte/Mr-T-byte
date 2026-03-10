@@ -1,4 +1,3 @@
-[![coffe](https://github.com/Mr-T-byte/Mr-T-byte/raw/main)](https://github.com/Mr-T-byte/Mr-T-byte/blob/main)
 
 ## Olá, eu sou Luiz Augusto! 👋
 
@@ -70,3 +69,4 @@ Obrigado pela visita! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-augusto-elias-souza-sacramento-1a3199339)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizsacramento135@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571999953358)
+
