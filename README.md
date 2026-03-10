@@ -16,7 +16,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra projetos pessoais em **Python**
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mr-T-byte)
 
 ---
 
@@ -27,14 +27,15 @@ Bem-vindo ao meu portfólio! Aqui você encontra projetos pessoais em **Python**
 * **Gerenciador de Estoque**  
   Script para adicionar/remover/listar itens e alertar quando o estoque está baixo.  
   Inspirado em experiência prática com controle de inventário.  
-  📂 Pasta: `/python/stock_manager.py`  
+  📂 [Abrir pasta `/python`](https://github.com/Mr-T-byte/portfolio-projects-ti/tree/main/python)  
   🛠️ Tecnologias: Python (dicionários, funções, loops)
 
 ### ☕ Java — Programação Orientada a Objetos
 
 * **Jogo da Senha**  
   Projeto desenvolvido na faculdade com lógica de tentativas e validação de senha.  
-  📂 Pasta: `/java/`  
+  📂 [Abrir pasta `/java`](https://github.com/Mr-T-byte/portfolio-projects-ti/tree/main/java)  
+  📂 [Abrir pasta do projeto LPA](https://github.com/Mr-T-byte/portfolio-projects-ti/tree/main/Jogo_da_Senha%20projeto%20de%20LPA%20faculdade)  
   🛠️ Tecnologias: Java, lógica de programação
 
 ---
