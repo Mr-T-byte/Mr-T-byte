@@ -1,4 +1,4 @@
-![coffe](https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif)
+![coffe]()
 
 ## Olá, eu sou Luiz Augusto! 👋
 Bem-vindo ao meu portfólio! Aqui você encontra projetos pessoais em **Python** (automação) e **Java** (programação orientada a objetos), desenvolvidos para demonstrar minhas habilidades iniciais em programação.
@@ -47,3 +47,4 @@ Bem-vindo ao meu portfólio! Aqui você encontra projetos pessoais em **Python**
 - 📱 WhatsApp: (71) 99995-3358
 
 Obrigado pela visita! 🚀
+
