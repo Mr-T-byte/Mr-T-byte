@@ -1,4 +1,3 @@
-[![coffe](https://github.com/Mr-T-byte/Mr-T-byte/raw/main)](https://github.com/Mr-T-byte/Mr-T-byte/blob/main)
 
 ## Olá, eu sou Luiz Augusto! 👋
 
@@ -27,15 +26,15 @@ Bem-vindo ao meu portfólio! Aqui você encontra projetos pessoais em **Python**
 * **Gerenciador de Estoque**  
   Script para adicionar/remover/listar itens e alertar quando o estoque está baixo.  
   Inspirado em experiência prática com controle de inventário.  
-  📂 [Abrir pasta `/python`](https://github.com/Mr-T-byte/portfolio-projects-ti/tree/main/python)  
+  📂 Abrir pasta: [`/python`](https://github.com/Mr-T-byte/portfolio-projects-ti/tree/main/python)  
   🛠️ Tecnologias: Python (dicionários, funções, loops)
 
 ### ☕ Java — Programação Orientada a Objetos
 
 * **Jogo da Senha**  
   Projeto desenvolvido na faculdade com lógica de tentativas e validação de senha.  
-  📂 [Abrir pasta `/java`](https://github.com/Mr-T-byte/portfolio-projects-ti/tree/main/java)  
-  📂 [Abrir pasta do projeto LPA](https://github.com/Mr-T-byte/portfolio-projects-ti/tree/main/Jogo_da_Senha%20projeto%20de%20LPA%20faculdade)  
+  📂 Abrir pasta: [`/java`](https://github.com/Mr-T-byte/portfolio-projects-ti/tree/main/java)  
+  📂 Abrir pasta: [projeto LPA](https://github.com/Mr-T-byte/portfolio-projects-ti/tree/main/Jogo_da_Senha%20projeto%20de%20LPA%20faculdade)  
   🛠️ Tecnologias: Java, lógica de programação
 
 ---
@@ -71,3 +70,4 @@ Obrigado pela visita! 🚀
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizsacramento135@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571999953358)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-T-byte)
+
